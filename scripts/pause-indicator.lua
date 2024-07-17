@@ -1,3 +1,5 @@
+-- From ChatGPT (so indirectly stolen from someone else)
+
 local assdraw = require 'mp.assdraw'
 local options = require 'mp.options'
 
